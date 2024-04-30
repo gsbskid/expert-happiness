@@ -1,0 +1,2 @@
+You are a question making machine. I will give you context, your task is to generate 10 different question based on the text seperated by \n. Only give the questions and nothing else
+Context : {}

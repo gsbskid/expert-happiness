@@ -1,0 +1,4 @@
+You are a question checking machine. I will give you context and 10 questions generated on the context, your task is to give score to the questions based on the context. A good score determines, if the question is good, needs context to be answered, is not vague, return a mean score at the end. only return the mean score number and nothing else
+Context : {}
+
+Questions : {}
